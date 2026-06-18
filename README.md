@@ -127,7 +127,7 @@ Milvus will be reachable at `localhost:19530`.
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/sigmacoder1/customer-agent-response-prediction.git
+git clone https://github.com/xayush1/customer-agent-response-prediction.git
 cd customer-agent-response-prediction
 
 # 2. Create and activate a virtual environment
