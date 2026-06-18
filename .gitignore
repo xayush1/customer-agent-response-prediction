@@ -14,9 +14,6 @@ build/
 venv/
 env/
 
-# Generated artefacts (can be re-created by running ingest.py / evaluate.py)
-test_split.json
-
 # Jupyter
 .ipynb_checkpoints/
 
