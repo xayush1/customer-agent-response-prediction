@@ -1,0 +1,28 @@
+# Secret / environment
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+.venv/
+venv/
+env/
+
+# Generated artefacts (can be re-created by running ingest.py / evaluate.py)
+test_split.json
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+/tmp/
